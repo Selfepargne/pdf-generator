@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend Puppeteer — Génération PDF bilan retraite",
   "main": "server.js",
-  "type": "commonjs"
+  "type": "commonjs",
   "scripts": {
     "start": "node server.js"
   },
@@ -13,6 +13,6 @@
     "cors": "^2.8.5"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   }
 }
